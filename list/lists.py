@@ -1,4 +1,4 @@
-"""     List Programs by GFG:     https://www.geeksforgeeks.org/python-list-exercise/   """
+"""     List Programs by GFG:      https://www.geeksforgeeks.org/python-list-exercise/     """
 
 
 
@@ -11,7 +11,7 @@ List is slower than the Tuple because of dynamic in nature.
 
 list() Constructor
 
-thislist = list(("apple", "banana", "cherry"))
+this_list = list(("apple", "banana", "cherry"))
 
 
 """
