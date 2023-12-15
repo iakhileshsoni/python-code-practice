@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="916880f2-43a5-447c-90e5-8bbb117e5355" name="Changes" comment="Practice code">
-      <change afterPath="$PROJECT_DIR$/Django_QuerySet &amp; Documentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ishwar/cron.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ishwar/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ishwar/ishwar-bank_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ishwar/method_overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ishwar/motivator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ishwar/new3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ishwar/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLeetCode/longest_common_prefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLeetCode/palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLeetCode/reversed_linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLeetCode/roman_to_int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyLeetCode/valid_parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/logical_bitwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python References.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID PRINCIPLES/Shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID PRINCIPLES/user_registration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOLID PRINCIPLES/users.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/leap_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/max_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/prime_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/student_result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/vowel_consonent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictToHtml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generate_random_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/monkey_chaning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops/class_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_references.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditional/conditional.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditional/conditional.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/range.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/two_sum_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/two_sum_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/string/strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/tuples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +54,7 @@
       <recent name="D:\pythontraining\Operators" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Current">
     <configuration name="Current" type="PythonConfigurationType" factoryName="Python">
       <module name="Python Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
