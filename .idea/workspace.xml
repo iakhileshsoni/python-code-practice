@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="916880f2-43a5-447c-90e5-8bbb117e5355" name="Changes" comment="Added some code in List">
+    <list default="true" id="916880f2-43a5-447c-90e5-8bbb117e5355" name="Changes" comment="Practice code">
+      <change afterPath="$PROJECT_DIR$/Django_QuerySet &amp; Documentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ishwar/cron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ishwar/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ishwar/ishwar-bank_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ishwar/method_overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ishwar/motivator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ishwar/new3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ishwar/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLeetCode/longest_common_prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLeetCode/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLeetCode/reversed_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLeetCode/roman_to_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyLeetCode/valid_parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/logical_bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python References.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID PRINCIPLES/Shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID PRINCIPLES/user_registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOLID PRINCIPLES/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/max_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/prime_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/student_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/vowel_consonent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictToHtml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate_random_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterator_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monkey_chaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/class_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_references.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditional/conditional.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditional/conditional.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/range.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/range.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/list/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/reverse_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/reverse_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/two_sum_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/two_sum_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/string/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuple/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/tuples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +67,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MPTvApOFlCGVAiPkm7ZLoPY1zy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,15 +85,16 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python Code" />
       <recent name="D:\pythontraining\list\GFG Excercises" />
       <recent name="D:\pythontraining" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python Code" />
+      <recent name="D:\Python Code\Ishwar" />
       <recent name="D:\Python Code\list" />
       <recent name="D:\pythontraining\list\GFG Excercises" />
       <recent name="D:\pythontraining\Operators" />
-      <recent name="D:\pythontraining\functions" />
-      <recent name="D:\pythontraining\Numbers" />
     </key>
   </component>
   <component name="RunManager">
@@ -138,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701786198573</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practice code">
+      <created>1701855349288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701855349288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Practice code">
+      <created>1701855362942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701855362942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +214,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added some code in List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some code in List" />
+    <MESSAGE value="Practice code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
