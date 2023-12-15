@@ -86,8 +86,13 @@ print(thistuple)   # O/P   -->  ('banana', 'cherry')
 
 # The  del  keyword can delete the tuple completely:
 
+<<<<<<< HEAD
 # thistuple = ("apple", "banana", "cherry")
 # del thistuple
+=======
+thistuple = ("apple", "banana", "cherry")
+del thistuple
+>>>>>>> a131ce927079350200aee66f4583e8f17179e8d8
 
 
 
@@ -103,5 +108,68 @@ cherry
 '''
 
 
+
+
+
+# Indexing in Tuple
+
+tuple1 = ("a", "b" , "c" , "c")
+print(tuple1[3])   # will throw an error as IndexError: tuple index out of range
+
+
+# Changing the Tuple values
+x = ("apple", "banana", "cherry")
+y = list(x)
+print("Tuple after converting in List : ", y)
+y[1] = "kiwi"
+x = tuple(y)
+
+print("Tuple after updating the List and converting again in the Tuple : ",x)
+
+
+
+# Add Items into a tuple
+
+
+# 1. Convert into a list:
+thistuple = ("apple", "banana", "cherry")
+y = list(thistuple)
+y.append("orange")
+thistuple = tuple(y)  # O/P  -->   ('apple', 'banana', 'cherry', 'orange')
+
+# 2. Add tuple to a tuple.
+this_tuple = ("apple", "banana", "cherry")
+y = ("orange",)
+this_tuple += y
+
+print(thistuple)   # O/P  -->   ('apple', 'banana', 'cherry', 'orange')
+
+
+# Remove Items from a tuple
+thistuple = ("apple", "banana", "cherry")
+y = list(thistuple)
+y.remove("apple")
+thistuple = tuple(y)
+print(thistuple)   # O/P   -->  ('banana', 'cherry')
+
+
+# The  del  keyword can delete the tuple completely:
+
+thistuples = ("apple", "banana", "cherry")
+del thistuple
+print(thistuples)   #  this will raise an error because the tuple no longer exists
+
+
+
+# Loop Through the Index Numbers
+thistupl = ("apple", "banana", "cherry")
+for i in range(len(thistupl)):
+  print(thistupl[i])
+
+'''
+apple
+banana
+cherry
+'''
 
 

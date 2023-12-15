@@ -1,4 +1,11 @@
 """  Do all the operations in Function here  """
+"""
+
+When a function is defined inside a class then it is called Method.
+The method is accessible to data that is contained within the class
+Each object in Python has a unique id. The id() function returns the object’s id.
+
+"""
 
 """
 Generators
