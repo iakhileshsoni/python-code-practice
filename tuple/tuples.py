@@ -86,9 +86,8 @@ print(thistuple)   # O/P   -->  ('banana', 'cherry')
 
 # The  del  keyword can delete the tuple completely:
 
-thistuple = ("apple", "banana", "cherry")
-del thistuple
-print(thistuple)   #  this will raise an error because the tuple no longer exists
+# thistuple = ("apple", "banana", "cherry")
+# del thistuple
 
 
 

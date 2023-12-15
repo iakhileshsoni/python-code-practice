@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="916880f2-43a5-447c-90e5-8bbb117e5355" name="Changes" comment="Added some code in List">
+      <change afterPath="$PROJECT_DIR$/MyLeetCode/two_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/reverse_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/reverse_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuple/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/tuples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MPTvApOFlCGVAiPkm7ZLoPY1zy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +54,7 @@
       <recent name="D:\pythontraining\Numbers" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Current">
     <configuration name="Current" type="PythonConfigurationType" factoryName="Python">
       <module name="Python Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
