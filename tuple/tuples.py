@@ -86,13 +86,8 @@ print(thistuple)   # O/P   -->  ('banana', 'cherry')
 
 # The  del  keyword can delete the tuple completely:
 
-<<<<<<< HEAD
-# thistuple = ("apple", "banana", "cherry")
-# del thistuple
-=======
 thistuple = ("apple", "banana", "cherry")
 del thistuple
->>>>>>> a131ce927079350200aee66f4583e8f17179e8d8
 
 
 

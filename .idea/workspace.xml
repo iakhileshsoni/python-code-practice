@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="916880f2-43a5-447c-90e5-8bbb117e5355" name="Changes" comment="Added some code in List">
-      <change afterPath="$PROJECT_DIR$/MyLeetCode/two_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tuple/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/tuple/tuples.py" afterDir="false" />
     </list>
